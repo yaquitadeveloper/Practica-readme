@@ -375,9 +375,9 @@ graph TB
     D --> G[Railway API Backend]
     E --> C
     
-    style D fill:#4CAF50
-    style G fill:#FF9800
-    style F fill:#FFCA28
+    style D fill:#4E342E
+    style G fill:#512DA8
+    style F fill:#880E4F
 ```
 
 ---
